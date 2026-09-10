@@ -5,4 +5,4 @@ trabajo en equipo
 * Carlos Bello
 * Johan Gomez
 * Juan Osorio
-
+* Konny silva
