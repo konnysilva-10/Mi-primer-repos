@@ -4,4 +4,5 @@ trabajo en equipo
 * David stiven
 * Carlos Bello
 * Johan Gomez
+* Juan Osorio
 
